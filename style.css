@@ -317,7 +317,7 @@ footer .shadow a{
     padding: 10px;
     text-align: center;
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 700px){
   header{
     background: url('camry.jpeg');
     background-position: center;
@@ -422,7 +422,7 @@ footer .shadow a{
     }
 }
 
-@media screen and (min-width: 500px){
+@media screen and (min-width: 700px){
     nav .fa-solid{
         display: none;
     }
